@@ -1,4 +1,3 @@
-
 # Student Database Management System
 
 A console-based Java application using JDBC to manage student information in a MySQL database.
